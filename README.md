@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joconde Consoleé Ngoga Mizero</h1>
+<h1 align="center">Hi 👋, I'm Joconde Ngoga</h1>
 <h3 align="center">A passionate software developer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joconde-n&label=Profile%20views&color=0e75b6&style=flat" alt="joconde-n" /> </p>
