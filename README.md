@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_Logo.svg" title="Affinity Designer" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/affinitydesigner.svg" title="Affinity Designer" width="40"/>
 </p>
 
 #### 💻 Programming Languages
