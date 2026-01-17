@@ -13,7 +13,7 @@
 - 🎨 UI/UX Designer with a strong interest in **modern interfaces**
 - 🌱 Currently learning **Frontend Development (React & UI design)**
 - 🎯 Interested in full-stack development and product-focused design
-- 📫 Reach me at **Jocpinky04@gmail.com**
+- 📫 Reach me at **jocondengoga@gmail.com**
 
 ---
 
@@ -23,8 +23,8 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width="40"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" title="Canva" width="40"/>
-  <img src="https://cdn.simpleicons.org/affinitydesigner/1B72BE" title="Affinity Designer" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_Logo.svg" title="Affinity Designer" width="40"/>
 </p>
 
 #### 💻 Programming Languages
